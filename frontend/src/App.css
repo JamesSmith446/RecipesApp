@@ -1,0 +1,56 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif, Helvetica;
+  line-height: 1.4;
+}
+
+.box{
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 80%;
+}
+
+textarea {
+  width: 80%;
+  height: 60px;
+}
+
+button {
+  position: relative;
+  top: -30px;
+  margin-left: 20px;
+}
+
+.editrecipe > h1 {
+  position: relative;
+  top: -25px;
+  left: 15px;
+}
+
+.submit {
+  position: relative;
+  width: 150px;
+  height: 120px;
+  top: -30px;
+  left: 10px;
+}
+
+.editdelete {
+  position: relative;
+  top: -10px;
+  left: 50px;
+}
+
+button {
+  position: relative;
+  top: -35px;
+  width: 80px;
+}
